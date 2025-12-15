@@ -117,5 +117,4 @@ pip install ortools pandas numpy matplotlib
 ## Run  the notebook
 notebook/Delhivary.ipynb
 
-```html
-<img src="banner.png" width="100%">
+
