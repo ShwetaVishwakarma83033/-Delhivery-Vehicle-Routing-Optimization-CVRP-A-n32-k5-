@@ -2,7 +2,7 @@
 # 🚚 Delhivery Vehicle Routing Optimization (CVRP)
 
 <p align="center">
-  <img src="assets/banner.png" alt="Vehicle Routing Optimization Banner" width="100%">
+  <img src="banner.png" alt="Vehicle Routing Optimization Banner" width="100%">
 </p>
 
 ## 📌 Project Overview
